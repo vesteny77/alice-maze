@@ -1,0 +1,4 @@
+3 3
+#,r,e_se_s !,, #,y,sw
+#,b,n #,b,n #,b,sw
+?,b,n_e #,b,e_n #,b,n

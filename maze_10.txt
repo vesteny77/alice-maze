@@ -1,0 +1,8 @@
+7 7
+#,b,se #,b,se #,b,e #,b,se #,b,se_sw #,y,w #,b,w
+#,b,s_e #,b,n_ne #,y,w_s #,b,ne #,b,w #,b,w_e #,b,w_sw
+#,b,s #,b,n #,b,w ?,b,w_s #,b,nw_se #,b,e_s #,r,w
+#,, #,, #,, #,, #,, #,, #,,
+#,b,s_e #,b,n #,b,e !,, #,b,se_sw #,b,se_sw_n #,b,w
+#,r,e #,b,nw_sw #,b,w_e #,b,e #,b,n_sw #,b,n #,r,n
+#,r,e #,y,ne #,b,nw_e #,b,nw_e_w #,b,nw #,b,n #,b,n

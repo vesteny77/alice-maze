@@ -1,0 +1,6 @@
+test1：stop executing upon landing on a white square
+test2：pick the shorter path as the solution
+test3：when step size varies, the program continue executing on the repeated grid
+test4：out of bound
+test5：check if the step size changes on red or yellow arrows
+test6: when step size == 0, we abandon the path
