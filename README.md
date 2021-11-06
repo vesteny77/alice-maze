@@ -70,9 +70,10 @@ Once the user successfully lands on the goal(creating a vertex that corresponds 
 We are going to include the following **data structures**:
 
 1. We will use List to implement the queue used for BFS. The enqueue() is equivalent to append() and the dequeue() is equivalent to pop(0).
-
 2. Each grid in the maze is represented by an object Grid containing 10 fields: role(string) that has exactly 3 options - ”goal”, ”starting point”, or “normal”, color(string) that represents the color of the arrow, and eight direction fields(boolean) - if the grid contains arrows in these directions, the corresponding fields will be true and the rest are false.
-
 3. The maze is an object that includes the starting point(tuple), a nested list storing all Grids, the width, and the height. The length of the list is height and the length of each inner list is width.
-
 4. In the ”BFS tree”, each node is an object with fields: coordinate(tuple), step size(integer), and children(a list of nodes).
+
+
+
+*(Project taken from a problem set in CSC263, a course on data structure and algorithms)*
